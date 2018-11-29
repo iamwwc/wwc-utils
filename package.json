@@ -1,14 +1,14 @@
 {
   "name": "wwc-utils",
   "version": "1.0.0",
-  "description": "",
+  "description": "store utils function",
   "main": "index.js",
   "scripts": {
     "test": "mocha --require ts-node/register test/**/*.ts",
     "pub": "tsc && npm publish"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": ["typescript","javascript","utils"],
+  "author": "iamwwc",
   "license": "ISC",
   "devDependencies": {
     "@types/chai": "^4.1.7",
