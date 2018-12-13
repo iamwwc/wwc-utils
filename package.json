@@ -1,8 +1,8 @@
 {
   "name": "wwc-utils",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "store utils function",
-  "main": "index.js",
+  "main": "./dist/index.js",
   "scripts": {
     "test": "mocha --require ts-node/register test/**/*.ts",
     "pub": "tsc && npm publish"
